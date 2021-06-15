@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/253060700.svg)](https://zenodo.org/badge/latestdoi/253060700) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/babakkhavari/Clustering)
 
 # Clustering
-Script and data from: **Population cluster data to assess the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Mark Howells and Francesco Fuso Nerini. 
+Script from: **Population cluster data to assess the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Mark Howells and Francesco Fuso Nerini. Can be used to generate the clusters used in for the Global Electrification Platofrm.
 
 ## Content
 This repository contains:
