@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/253060700.svg)](https://zenodo.org/badge/latestdoi/253060700) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/babakkhavari/Clustering)
 
 # Clustering
-Script and data from: **Population cluster data to assess the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Mark Howells and Francesco Fuso Nerini. Datasets produced using the method described in the paper are available at: https://data.mendeley.com/datasets/z9zfhzk8cr.
+Script and data from: **Population cluster data to assess the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Mark Howells and Francesco Fuso Nerini. 
 
 ## Content
 This repository contains:
@@ -21,7 +21,7 @@ After installing Anaconda you can download the repository directly or clone it t
 
 ```
 > conda install git
-> git clone https://github.com/babakkhavari/Clustering.git
+> git clone https://github.com/global-electrification-platform/Clustering.git
 ```
 Once installed, open anaconda prompt and move to your local "clustering" directory using:
 ```
@@ -49,14 +49,4 @@ With the environment activated, you can now move to the clustering directory and
 **5-April-2020**: Original code base published
 
 ## Resources
-Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr
-
 Journal article can be found here: https://www.nature.com/articles/s41597-021-00897-9
-## Credits
-
-**Conceptualization:** [Babak Khavari](https://github.com/babakkhavari) & [Francesco Fuso-Nerini](https://github.com/FFusoNerini)<br />
-**Methodology:** [Babak Khavari](https://github.com/babakkhavari)<br />
-**Software:** [Babak Khavari](https://github.com/babakkhavari)<br />
-**Validation:** [Babak Khavari](https://github.com/babakkhavari), [Alexandros Konrkovelos](https://github.com/akorkovelos) & [Andreas Sahlberg](https://github.com/AndreasSahlberg)<br />
-**Supervision and Advisory support:** [Francesco Fuso-Nerini](https://github.com/FFusoNerini) & [Mark Howells](https://orcid.org/0000-0001-6419-4957)<br />
-
